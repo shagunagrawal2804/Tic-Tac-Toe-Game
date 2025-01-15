@@ -1,0 +1,19 @@
+.Board-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.Board-container{
+  margin-top: 50px;
+  box-shadow: -4px -4px 15px var(--seventh-color);
+  
+ 
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(90deg , #282829 , #2e2d2d);
+  color: white;
+}
